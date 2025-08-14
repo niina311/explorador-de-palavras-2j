@@ -1,0 +1,1 @@
+# explorador-de-palavras-2j
