@@ -9,7 +9,7 @@ function mostraPalavrasChave() {
 
   const palavras = texto.split(" ");
 
-  campoResultado.textContent = palavras.join(", ")
+  campoResultado.textContent = palavrasChave.join(", ")
 }
 function processaTexto(texto) {
     let palavras = texto.split(/\P{L}+/u);
